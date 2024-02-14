@@ -1,5 +1,9 @@
-new file to test in the folder for github
-name
-mail id
-contact no.
-etc..
+Work Around:
+In BMIDE, manually attach the 'Awp0Markup' Command to the Command Collection: Awp0GlobalStableCommands_toolsAndInfo
+OR
+install The 'Visualization Extension for Active Workspace'
+
+Steps to Duplicate:
+
+Please see the provided word document.
+if a PDF is a standalone dataset OR if attached to An ItemRevision, opening in AW so that the PDF is viewed will not present the Markup option as expected.
